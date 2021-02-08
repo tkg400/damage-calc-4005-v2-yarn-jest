@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/tkg400/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/tkg400/damage-calc-4005-v2-yarn)
-
 # damage-calc
+![](https://github.com/tkg400/damage-calc-4005-gh-actions/workflows/Damage%20Calculation%20Test/badge.svg)
+
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
